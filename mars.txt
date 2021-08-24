@@ -1,2 +1,3 @@
 Test typing to Mars
-
+Next step in the process
+Trying again to learn how to commit to git
